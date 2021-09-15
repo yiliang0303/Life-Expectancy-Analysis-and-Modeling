@@ -1,6 +1,7 @@
 # Life Expectancy Analysis and Modeling
 The dataset is model by Linear Regression in Python with the package of [statsmodels.api](https://www.statsmodels.org/stable/index.html)  
 The dependent variable, y would be Life Expectancy. Furthermore,  
+
 The project shows :
 * how was the independent variables is choosed 
 * how to get the best Linear Regression Model
